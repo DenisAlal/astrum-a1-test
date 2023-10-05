@@ -17,7 +17,6 @@ const GridComponent = ({image, block1, block2, block3}) => {
                 <div className={styles.textBlock}>{block1}</div>
                 <div className={styles.textBlock2}>{block2}</div>
                 <div className={styles.textBlock3}>{block3}</div>
-
             </div>
         </div>
     )
